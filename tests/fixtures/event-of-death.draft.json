@@ -1,0 +1,940 @@
+[
+  {
+    "page": 1,
+    "sections": [
+      {
+        "region": "header",
+        "title": null,
+        "continues_previous_page": false,
+        "items": [
+          {
+            "kind": "field",
+            "text": null,
+            "list_items": null,
+            "table_rows": null,
+            "field": {
+              "label": "p1.s1",
+              "field_type": "text",
+              "input": "p1.w1",
+              "hints": [],
+              "options": null,
+              "required": false,
+              "required_evidence": null
+            }
+          },
+          {
+            "kind": "field",
+            "text": null,
+            "list_items": null,
+            "table_rows": null,
+            "field": {
+              "label": "p1.s1",
+              "field_type": "text",
+              "input": "p1.w2",
+              "hints": [],
+              "options": null,
+              "required": false,
+              "required_evidence": null
+            }
+          },
+          {
+            "kind": "field",
+            "text": null,
+            "list_items": null,
+            "table_rows": null,
+            "field": {
+              "label": "p1.s2",
+              "field_type": "text",
+              "input": "p1.w3",
+              "hints": [],
+              "options": null,
+              "required": false,
+              "required_evidence": null
+            }
+          }
+        ]
+      },
+      {
+        "region": "letterhead",
+        "title": null,
+        "continues_previous_page": false,
+        "items": [
+          {
+            "kind": "paragraph",
+            "text": "p1.s3",
+            "list_items": null,
+            "table_rows": null,
+            "field": null
+          },
+          {
+            "kind": "paragraph",
+            "text": "p1.s4",
+            "list_items": null,
+            "table_rows": null,
+            "field": null
+          },
+          {
+            "kind": "paragraph",
+            "text": "p1.s5",
+            "list_items": null,
+            "table_rows": null,
+            "field": null
+          },
+          {
+            "kind": "paragraph",
+            "text": "p1.s6-p1.s8",
+            "list_items": null,
+            "table_rows": null,
+            "field": null
+          }
+        ]
+      },
+      {
+        "region": "body",
+        "title": "p1.s9",
+        "continues_previous_page": false,
+        "items": []
+      },
+      {
+        "region": "body",
+        "title": "p1.s10",
+        "continues_previous_page": false,
+        "items": [
+          {
+            "kind": "paragraph",
+            "text": "p1.s11-p1.s12",
+            "list_items": null,
+            "table_rows": null,
+            "field": null
+          },
+          {
+            "kind": "paragraph",
+            "text": "p1.s13-p1.s14",
+            "list_items": null,
+            "table_rows": null,
+            "field": null
+          },
+          {
+            "kind": "list",
+            "text": null,
+            "list_items": [
+              "p1.s15-p1.s16",
+              "p1.s17-p1.s20",
+              "p1.s21-p1.s22",
+              "p1.s23-p1.s24",
+              "p1.s25-p1.s26"
+            ],
+            "table_rows": null,
+            "field": null
+          }
+        ]
+      },
+      {
+        "region": "body",
+        "title": "p1.s27",
+        "continues_previous_page": false,
+        "items": [
+          {
+            "kind": "field",
+            "text": null,
+            "list_items": null,
+            "table_rows": null,
+            "field": {
+              "label": "p1.s29",
+              "field_type": "text",
+              "input": "p1.w4",
+              "hints": [],
+              "options": null,
+              "required": false,
+              "required_evidence": null
+            }
+          },
+          {
+            "kind": "field",
+            "text": null,
+            "list_items": null,
+            "table_rows": null,
+            "field": {
+              "label": "p1.s30",
+              "field_type": "text",
+              "input": "p1.w5",
+              "hints": [],
+              "options": null,
+              "required": false,
+              "required_evidence": null
+            }
+          },
+          {
+            "kind": "field",
+            "text": null,
+            "list_items": null,
+            "table_rows": null,
+            "field": {
+              "label": "p1.s31",
+              "field_type": "text",
+              "input": "p1.w6",
+              "hints": [],
+              "options": null,
+              "required": false,
+              "required_evidence": null
+            }
+          },
+          {
+            "kind": "field",
+            "text": null,
+            "list_items": null,
+            "table_rows": null,
+            "field": {
+              "label": "p1.s32",
+              "field_type": "text",
+              "input": "p1.w7",
+              "hints": [],
+              "options": null,
+              "required": false,
+              "required_evidence": null
+            }
+          },
+          {
+            "kind": "field",
+            "text": null,
+            "list_items": null,
+            "table_rows": null,
+            "field": {
+              "label": "p1.s33",
+              "field_type": "text",
+              "input": "p1.w8",
+              "hints": [],
+              "options": null,
+              "required": false,
+              "required_evidence": null
+            }
+          },
+          {
+            "kind": "field",
+            "text": null,
+            "list_items": null,
+            "table_rows": null,
+            "field": {
+              "label": "p1.s34",
+              "field_type": "date",
+              "input": "p1.w9",
+              "hints": [],
+              "options": null,
+              "required": false,
+              "required_evidence": null
+            }
+          },
+          {
+            "kind": "field",
+            "text": null,
+            "list_items": null,
+            "table_rows": null,
+            "field": {
+              "label": "p1.s35",
+              "field_type": "date",
+              "input": "p1.w10",
+              "hints": [],
+              "options": null,
+              "required": false,
+              "required_evidence": null
+            }
+          },
+          {
+            "kind": "field",
+            "text": null,
+            "list_items": null,
+            "table_rows": null,
+            "field": {
+              "label": "p1.s36",
+              "field_type": "dropdown",
+              "input": "p1.w11",
+              "hints": [],
+              "options": [
+                "p1.w11.o1",
+                "p1.w11.o2",
+                "p1.w11.o3",
+                "p1.w11.o4",
+                "p1.w11.o5",
+                "p1.w11.o6",
+                "p1.w11.o7"
+              ],
+              "required": false,
+              "required_evidence": null
+            }
+          },
+          {
+            "kind": "field",
+            "text": null,
+            "list_items": null,
+            "table_rows": null,
+            "field": {
+              "label": "p1.s37",
+              "field_type": "text",
+              "input": "p1.w12",
+              "hints": [
+                "p1.s38"
+              ],
+              "options": null,
+              "required": true,
+              "required_evidence": "p1.s37"
+            }
+          }
+        ]
+      },
+      {
+        "region": "footer",
+        "title": null,
+        "continues_previous_page": false,
+        "items": [
+          {
+            "kind": "note",
+            "text": "p1.s40",
+            "list_items": null,
+            "table_rows": null,
+            "field": null
+          },
+          {
+            "kind": "note",
+            "text": "p1.s41-p1.s43",
+            "list_items": null,
+            "table_rows": null,
+            "field": null
+          }
+        ]
+      }
+    ],
+    "ignored": [
+      {
+        "refs": "p1.s28",
+        "reason": "footnote_marker"
+      },
+      {
+        "refs": "p1.s39",
+        "reason": "footnote_marker"
+      },
+      {
+        "refs": "p1.s44",
+        "reason": "page_number"
+      },
+      {
+        "refs": "p1.s45",
+        "reason": "barcode"
+      }
+    ]
+  },
+  {
+    "page": 2,
+    "sections": [
+      {
+        "region": "header",
+        "title": null,
+        "continues_previous_page": false,
+        "items": [
+          {
+            "kind": "field",
+            "text": null,
+            "list_items": null,
+            "table_rows": null,
+            "field": {
+              "label": "p2.s1",
+              "field_type": "text",
+              "input": "p2.w1",
+              "hints": [],
+              "options": null,
+              "required": false,
+              "required_evidence": null
+            }
+          },
+          {
+            "kind": "field",
+            "text": null,
+            "list_items": null,
+            "table_rows": null,
+            "field": {
+              "label": "p2.s1",
+              "field_type": "text",
+              "input": "p2.w2",
+              "hints": [],
+              "options": null,
+              "required": false,
+              "required_evidence": null
+            }
+          },
+          {
+            "kind": "field",
+            "text": null,
+            "list_items": null,
+            "table_rows": null,
+            "field": {
+              "label": "p2.s2",
+              "field_type": "text",
+              "input": "p2.w3",
+              "hints": [],
+              "options": null,
+              "required": false,
+              "required_evidence": null
+            }
+          }
+        ]
+      },
+      {
+        "region": "body",
+        "title": "p2.s3",
+        "continues_previous_page": false,
+        "items": [
+          {
+            "kind": "list",
+            "text": null,
+            "list_items": [
+              "p2.s5",
+              "p2.s7",
+              "p2.s9-p2.s10",
+              "p2.s12",
+              "p2.s14"
+            ],
+            "table_rows": null,
+            "field": null
+          }
+        ]
+      },
+      {
+        "region": "body",
+        "title": "p2.s15",
+        "continues_previous_page": false,
+        "items": [
+          {
+            "kind": "table",
+            "text": null,
+            "list_items": null,
+            "table_rows": [
+              [
+                "p2.s16",
+                "p2.s17-p2.s18"
+              ],
+              [
+                "p2.s19",
+                "p2.s20-p2.s21"
+              ],
+              [
+                "p2.s22",
+                "p2.s23"
+              ]
+            ],
+            "field": null
+          }
+        ]
+      },
+      {
+        "region": "body",
+        "title": "p2.s24",
+        "continues_previous_page": false,
+        "items": [
+          {
+            "kind": "paragraph",
+            "text": "p2.s25-p2.s26",
+            "list_items": null,
+            "table_rows": null,
+            "field": null
+          },
+          {
+            "kind": "paragraph",
+            "text": "p2.s27-p2.s29",
+            "list_items": null,
+            "table_rows": null,
+            "field": null
+          },
+          {
+            "kind": "paragraph",
+            "text": "p2.s30-p2.s32",
+            "list_items": null,
+            "table_rows": null,
+            "field": null
+          },
+          {
+            "kind": "field",
+            "text": null,
+            "list_items": null,
+            "table_rows": null,
+            "field": {
+              "label": "p2.s33",
+              "field_type": "number",
+              "input": "p2.w4",
+              "hints": [],
+              "options": null,
+              "required": false,
+              "required_evidence": null
+            }
+          }
+        ]
+      },
+      {
+        "region": "footer",
+        "title": null,
+        "continues_previous_page": false,
+        "items": [
+          {
+            "kind": "note",
+            "text": "p2.s34-p2.s35",
+            "list_items": null,
+            "table_rows": null,
+            "field": null
+          }
+        ]
+      }
+    ],
+    "ignored": [
+      {
+        "refs": "p2.s4",
+        "reason": "list_marker"
+      },
+      {
+        "refs": "p2.s6",
+        "reason": "list_marker"
+      },
+      {
+        "refs": "p2.s8",
+        "reason": "list_marker"
+      },
+      {
+        "refs": "p2.s11",
+        "reason": "list_marker"
+      },
+      {
+        "refs": "p2.s13",
+        "reason": "list_marker"
+      },
+      {
+        "refs": "p2.s36",
+        "reason": "page_number"
+      },
+      {
+        "refs": "p2.s37",
+        "reason": "barcode"
+      }
+    ]
+  },
+  {
+    "page": 3,
+    "sections": [
+      {
+        "region": "header",
+        "title": null,
+        "continues_previous_page": false,
+        "items": [
+          {
+            "kind": "field",
+            "text": null,
+            "list_items": null,
+            "table_rows": null,
+            "field": {
+              "label": "p3.s1",
+              "field_type": "text",
+              "input": "p3.w1",
+              "hints": [],
+              "options": null,
+              "required": false,
+              "required_evidence": null
+            }
+          },
+          {
+            "kind": "field",
+            "text": null,
+            "list_items": null,
+            "table_rows": null,
+            "field": {
+              "label": "p3.s1",
+              "field_type": "text",
+              "input": "p3.w2",
+              "hints": [],
+              "options": null,
+              "required": false,
+              "required_evidence": null
+            }
+          },
+          {
+            "kind": "field",
+            "text": null,
+            "list_items": null,
+            "table_rows": null,
+            "field": {
+              "label": "p3.s2",
+              "field_type": "text",
+              "input": "p3.w3",
+              "hints": [],
+              "options": null,
+              "required": false,
+              "required_evidence": null
+            }
+          }
+        ]
+      },
+      {
+        "region": "body",
+        "title": "p3.s4",
+        "continues_previous_page": false,
+        "items": [
+          {
+            "kind": "note",
+            "text": "p3.s3",
+            "list_items": null,
+            "table_rows": null,
+            "field": null
+          }
+        ]
+      },
+      {
+        "region": "body",
+        "title": "p3.s5",
+        "continues_previous_page": false,
+        "items": [
+          {
+            "kind": "field",
+            "text": null,
+            "list_items": null,
+            "table_rows": null,
+            "field": {
+              "label": "p3.s6",
+              "field_type": "text",
+              "input": "p3.w5",
+              "hints": [],
+              "options": null,
+              "required": false,
+              "required_evidence": null
+            }
+          },
+          {
+            "kind": "field",
+            "text": null,
+            "list_items": null,
+            "table_rows": null,
+            "field": {
+              "label": "p3.s7",
+              "field_type": "text",
+              "input": "p3.w6",
+              "hints": [],
+              "options": null,
+              "required": false,
+              "required_evidence": null
+            }
+          },
+          {
+            "kind": "field",
+            "text": null,
+            "list_items": null,
+            "table_rows": null,
+            "field": {
+              "label": "p3.s8",
+              "field_type": "text",
+              "input": "p3.w7",
+              "hints": [],
+              "options": null,
+              "required": false,
+              "required_evidence": null
+            }
+          },
+          {
+            "kind": "field",
+            "text": null,
+            "list_items": null,
+            "table_rows": null,
+            "field": {
+              "label": "p3.s9",
+              "field_type": "text",
+              "input": "p3.w8",
+              "hints": [],
+              "options": null,
+              "required": false,
+              "required_evidence": null
+            }
+          },
+          {
+            "kind": "field",
+            "text": null,
+            "list_items": null,
+            "table_rows": null,
+            "field": {
+              "label": "p3.s10",
+              "field_type": "text",
+              "input": "p3.w9",
+              "hints": [],
+              "options": null,
+              "required": false,
+              "required_evidence": null
+            }
+          },
+          {
+            "kind": "field",
+            "text": null,
+            "list_items": null,
+            "table_rows": null,
+            "field": {
+              "label": "p3.s11",
+              "field_type": "date",
+              "input": "p3.w10",
+              "hints": [],
+              "options": null,
+              "required": false,
+              "required_evidence": null
+            }
+          },
+          {
+            "kind": "field",
+            "text": null,
+            "list_items": null,
+            "table_rows": null,
+            "field": {
+              "label": "p3.s12",
+              "field_type": "text",
+              "input": "p3.w11",
+              "hints": [],
+              "options": null,
+              "required": false,
+              "required_evidence": null
+            }
+          },
+          {
+            "kind": "field",
+            "text": null,
+            "list_items": null,
+            "table_rows": null,
+            "field": {
+              "label": "p3.s13",
+              "field_type": "text",
+              "input": "p3.w12",
+              "hints": [],
+              "options": null,
+              "required": false,
+              "required_evidence": null
+            }
+          },
+          {
+            "kind": "field",
+            "text": null,
+            "list_items": null,
+            "table_rows": null,
+            "field": {
+              "label": "p3.s14",
+              "field_type": "text",
+              "input": "p3.w13",
+              "hints": [
+                "p3.s15"
+              ],
+              "options": null,
+              "required": true,
+              "required_evidence": "p3.s14"
+            }
+          }
+        ]
+      },
+      {
+        "region": "body",
+        "title": "p3.s16",
+        "continues_previous_page": false,
+        "items": [
+          {
+            "kind": "field",
+            "text": null,
+            "list_items": null,
+            "table_rows": null,
+            "field": {
+              "label": "p3.s17",
+              "field_type": "text",
+              "input": "p3.w14",
+              "hints": [],
+              "options": null,
+              "required": false,
+              "required_evidence": null
+            }
+          },
+          {
+            "kind": "field",
+            "text": null,
+            "list_items": null,
+            "table_rows": null,
+            "field": {
+              "label": "p3.s18",
+              "field_type": "text",
+              "input": "p3.w15",
+              "hints": [],
+              "options": null,
+              "required": false,
+              "required_evidence": null
+            }
+          },
+          {
+            "kind": "field",
+            "text": null,
+            "list_items": null,
+            "table_rows": null,
+            "field": {
+              "label": "p3.s19",
+              "field_type": "text",
+              "input": "p3.w16",
+              "hints": [],
+              "options": null,
+              "required": false,
+              "required_evidence": null
+            }
+          },
+          {
+            "kind": "paragraph",
+            "text": "p3.s20-p3.s21",
+            "list_items": null,
+            "table_rows": null,
+            "field": null
+          }
+        ]
+      },
+      {
+        "region": "body",
+        "title": "p3.s22",
+        "continues_previous_page": false,
+        "items": [
+          {
+            "kind": "field",
+            "text": null,
+            "list_items": null,
+            "table_rows": null,
+            "field": {
+              "label": "p3.s23",
+              "field_type": "text",
+              "input": "p3.w17",
+              "hints": [],
+              "options": null,
+              "required": false,
+              "required_evidence": null
+            }
+          },
+          {
+            "kind": "field",
+            "text": null,
+            "list_items": null,
+            "table_rows": null,
+            "field": {
+              "label": "p3.s24",
+              "field_type": "date",
+              "input": "p3.w18",
+              "hints": [],
+              "options": null,
+              "required": false,
+              "required_evidence": null
+            }
+          },
+          {
+            "kind": "field",
+            "text": null,
+            "list_items": null,
+            "table_rows": null,
+            "field": {
+              "label": "p3.s25",
+              "field_type": "signature",
+              "input": "p3.r20",
+              "hints": [],
+              "options": null,
+              "required": false,
+              "required_evidence": null
+            }
+          },
+          {
+            "kind": "field",
+            "text": null,
+            "list_items": null,
+            "table_rows": null,
+            "field": {
+              "label": "p3.s26",
+              "field_type": "text",
+              "input": "p3.w19",
+              "hints": [],
+              "options": null,
+              "required": false,
+              "required_evidence": null
+            }
+          },
+          {
+            "kind": "field",
+            "text": null,
+            "list_items": null,
+            "table_rows": null,
+            "field": {
+              "label": "p3.s26",
+              "field_type": "text",
+              "input": "p3.w20",
+              "hints": [],
+              "options": null,
+              "required": false,
+              "required_evidence": null
+            }
+          }
+        ]
+      },
+      {
+        "region": "body",
+        "title": "p3.s27",
+        "continues_previous_page": false,
+        "items": [
+          {
+            "kind": "note",
+            "text": "p3.s28",
+            "list_items": null,
+            "table_rows": null,
+            "field": null
+          },
+          {
+            "kind": "field",
+            "text": null,
+            "list_items": null,
+            "table_rows": null,
+            "field": {
+              "label": "p3.s29",
+              "field_type": "text",
+              "input": null,
+              "hints": [],
+              "options": null,
+              "required": false,
+              "required_evidence": null
+            }
+          },
+          {
+            "kind": "field",
+            "text": null,
+            "list_items": null,
+            "table_rows": null,
+            "field": {
+              "label": "p3.s30",
+              "field_type": "signature",
+              "input": null,
+              "hints": [],
+              "options": null,
+              "required": false,
+              "required_evidence": null
+            }
+          }
+        ]
+      },
+      {
+        "region": "footer",
+        "title": null,
+        "continues_previous_page": false,
+        "items": [
+          {
+            "kind": "note",
+            "text": "p3.s31-p3.s32",
+            "list_items": null,
+            "table_rows": null,
+            "field": null
+          }
+        ]
+      }
+    ],
+    "ignored": [
+      {
+        "refs": "p3.s33",
+        "reason": "page_number"
+      },
+      {
+        "refs": "p3.s34",
+        "reason": "barcode"
+      }
+    ]
+  }
+]

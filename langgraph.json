@@ -1,0 +1,7 @@
+{
+  "dependencies": ["."],
+  "graphs": {
+    "input-extraction": "src/agents/input-extraction/graph.ts:graph"
+  },
+  "env": ".env"
+}

@@ -1,0 +1,133 @@
+{
+  "title": "Payment of UBS Fisca 3a (pillar 3a) in the event of death",
+  "issuer": "Fisca Pension Fund Foundation of UBS AG",
+  "contact": {"address": "P.O. Box, CH-8098 Zurich", "phone": "+41-61-288 50 40", "web": "ubs.com/fisca"},
+  "form_reference": "65952 E 001 20.03.2026 N1",
+  "pages": [
+    {
+      "page": 1,
+      "header": [
+        {"label": "Banking relationship", "type": "text"},
+        {"label": "UBS Fisca 3a no.", "type": "text"}
+      ],
+      "sections": [
+        {
+          "title": "Order of beneficiaries",
+          "text": "In the event of death, retirement savings are paid out according to the order of beneficiaries laid down in law (Art. 2 OPO 3). Retirement savings do not constitute an inheritance claim and are therefore not part of the estate. The groups are prioritized in the following order. This means that e.g., persons in Group 2 will only receive capital if persons in Group 1 do not exist. If there are multiple beneficiaries in the same Group, capital is divided up equally between them.",
+          "list": [
+            "Group 1: the surviving spouse or registered partner",
+            "Group 2: the direct descendants and any natural persons for whose maintenance the deceased was significantly responsible, or the person who was living with the deceased in a permanent domestic relationship for the last five years immediately prior to their death, or who is responsible for maintaining one or more joint children",
+            "Group 3: the parents",
+            "Group 4: the siblings",
+            "Group 5: other heirs (according to the certificate of inheritance), excluding any payments due to the state or municipal institutions"
+          ]
+        },
+        {
+          "title": "Details of the deceased pension holder",
+          "footnote": "The singular form also includes the plural, and all masculine terms referring to persons refer to persons of both genders.",
+          "fields": [
+            {"label": "Last name", "type": "text"},
+            {"label": "First name(s)", "type": "text"},
+            {"label": "Street, no.", "type": "text"},
+            {"label": "Postal code, city", "type": "text"},
+            {"label": "Country", "type": "text"},
+            {"label": "Date of birth", "type": "date", "format": "dd.mm.yyyy"},
+            {"label": "Date of death", "type": "date"},
+            {"label": "Marital status", "type": "dropdown",
+             "options": ["Single", "Married", "Divorced", "Widowed", "registered partnership", "diss.partnership, death", "diss.partnership, legal"]},
+            {"label": "AHV number / Social security number", "type": "text", "required": true, "format": "756.xxxx.xxxx.xx"}
+          ]
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "header": [
+        {"label": "Banking relationship", "type": "text"},
+        {"label": "UBS Fisca 3a", "type": "text"}
+      ],
+      "sections": [
+        {
+          "title": "To join in any case",
+          "list": [
+            "Official identity document of the beneficiary or their legal guardian",
+            "Certificate of inheritance",
+            "Family registration certificate of the deceased pension holder (issued after the date of death) or death certificate if married or in registered partnership",
+            "Deed of appointment in the case of an executor",
+            "Inheritance disclaimer record if the inheritance is repudiated"
+          ]
+        },
+        {
+          "title": "Depending on the beneficiaries the following additional documents must be enclosed",
+          "table": [
+            {"beneficiary": "Partner", "documents": "Proof of residence of the pension holder and the partner from the local municipality for the last five years until death and a cohabitation agreement"},
+            {"beneficiary": "Parents", "documents": "Family registration certificate of the deceased pension holder (issued after the date of death) or birth certificate of the deceased pension holder"},
+            {"beneficiary": "Siblings", "documents": "Family registration certificate of the parents"}
+          ]
+        },
+        {
+          "title": "Notice",
+          "text": [
+            "Any units in the UBS Vitainvest investment fund or in the UBS AST 4 Mixta investment groups will be sold as soon as the Fisca Pension Fund Foundation has been informed of the pension holder's death. Upon death assets are no longer subject to interest accrual.",
+            "Advance clarification with any potential pledgee (e.g., the bank) is required to ascertain whether the pension assets are still pledged. If they are, the pledgee (e.g., UBS Switzerland AG) must cancel the pledge. A copy of the pledge release must be submitted, otherwise the payment cannot be executed.",
+            "Please ensure that this application has been completed in full, signed by the applicant, and includes all relevant supporting documents. The documents submitted will not be returned. Copies of the documents are accepted. Documents in foreign languages must be submitted with a certified translation into German, French, Italian or English."
+          ],
+          "fields": [
+            {"label": "Number of existing beneficiaries", "type": "number"}
+          ]
+        }
+      ]
+    },
+    {
+      "page": 3,
+      "header": [
+        {"label": "Banking relationship", "type": "text"},
+        {"label": "UBS Fisca 3a", "type": "text"}
+      ],
+      "sections": [
+        {
+          "title": "Beneficiary details",
+          "fields": [
+            {"label": "Beneficiary", "type": "text", "multiline": true},
+            {"label": "Last name", "type": "text"},
+            {"label": "First name(s)", "type": "text"},
+            {"label": "Street, no.", "type": "text"},
+            {"label": "Postal code, city", "type": "text"},
+            {"label": "Country", "type": "text"},
+            {"label": "Date of birth", "type": "date", "format": "dd.mm.yyyy"},
+            {"label": "Next of kin / Relationship to the deceased pension holder", "type": "text"},
+            {"label": "Phone number in the event of queries", "type": "text"},
+            {"label": "AHV number / Social security number", "type": "text", "required": true, "format": "756.xxxx.xxxx.xx"}
+          ]
+        },
+        {
+          "title": "Your account details",
+          "instruction": "Please indicate IBAN/SWIFT in the event of transfers abroad",
+          "fields": [
+            {"label": "Bank name", "type": "text"},
+            {"label": "IBAN", "type": "text"},
+            {"label": "In the name of", "type": "text"}
+          ],
+          "text": "For transfers to a foreign bank please provide detailed payment instructions (IBAN or SWIFT). The transfer will be made in Swiss francs (CHF) on the beneficiary's account. A capital payment declaration or a deduction of tax at source will be applied to the assets paid out."
+        },
+        {
+          "title": "Signature(s)",
+          "fields": [
+            {"label": "Place", "type": "text"},
+            {"label": "Date", "type": "date", "format": "dd.mm.yyyy"},
+            {"label": "Signature of beneficiary or legal representative", "type": "signature"},
+            {"label": "Name of beneficiary or legal representative", "type": "text"}
+          ]
+        },
+        {
+          "title": "For internal bank use only",
+          "fields": [
+            {"label": "Signature(s) verified / Signed in my presence", "type": "checkbox"},
+            {"label": "OU ref.", "type": "text"},
+            {"label": "Signature", "type": "signature"}
+          ]
+        }
+      ]
+    }
+  ]
+}

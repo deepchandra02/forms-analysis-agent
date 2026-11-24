@@ -1,0 +1,605 @@
+{
+  "source_file": "event-of-death-en.pdf",
+  "page_count": 3,
+  "is_acroform": true,
+  "pages": [
+    {
+      "page": 1,
+      "status": "ok",
+      "sections": [
+        {
+          "region": "header",
+          "title": null,
+          "continues_previous_page": false,
+          "items": [
+            {
+              "kind": "field",
+              "label": "Banking relationship",
+              "field_type": "text",
+              "hints": [],
+              "options": null,
+              "required": false,
+              "input": "widget"
+            },
+            {
+              "kind": "field",
+              "label": "Banking relationship",
+              "field_type": "text",
+              "hints": [],
+              "options": null,
+              "required": false,
+              "input": "widget"
+            },
+            {
+              "kind": "field",
+              "label": "UBS Fisca 3a no.",
+              "field_type": "text",
+              "hints": [],
+              "options": null,
+              "required": false,
+              "input": "widget"
+            }
+          ]
+        },
+        {
+          "region": "letterhead",
+          "title": null,
+          "continues_previous_page": false,
+          "items": [
+            {
+              "kind": "paragraph",
+              "text": "Fisca Pension Fund Foundation of UBS AG"
+            },
+            {
+              "kind": "paragraph",
+              "text": "Tel. +41-61-288 50 40"
+            },
+            {
+              "kind": "paragraph",
+              "text": "ubs.com/fisca"
+            },
+            {
+              "kind": "paragraph",
+              "text": "Fisca Pension Fund Foundation of UBS AG P.O. Box CH-8098 Zurich"
+            }
+          ]
+        },
+        {
+          "region": "body",
+          "title": "Payment of UBS Fisca 3a (pillar 3a) in the event of death",
+          "continues_previous_page": false,
+          "items": []
+        },
+        {
+          "region": "body",
+          "title": "Order of beneficiaries",
+          "continues_previous_page": false,
+          "items": [
+            {
+              "kind": "paragraph",
+              "text": "In the event of death, retirement savings are paid out according to the order of beneficiaries laid down in law (Art. 2 OPO 3). Retirement savings do not constitute an inheritance claim and are therefore not part of the estate."
+            },
+            {
+              "kind": "paragraph",
+              "text": "The groups are prioritized in the following order. This means that e.g., persons in Group 2 will only receive capital if persons in Group 1 do not exist. If there are multiple beneficiaries in the same Group, capital is divided up equally between them."
+            },
+            {
+              "kind": "list",
+              "items": [
+                "Group 1: the surviving spouse or registered partner",
+                "Group 2: the direct descendants and any natural persons for whose maintenance the deceased was significantly responsible, or the person who was living with the deceased in a permanent domestic relationship for the last five years immediately prior to their death, or who is responsible for maintaining one or more joint children",
+                "Group 3: the parents",
+                "Group 4: the siblings",
+                "Group 5: other heirs (according to the certificate of inheritance), excluding any payments due to the state or municipal institutions"
+              ]
+            }
+          ]
+        },
+        {
+          "region": "body",
+          "title": "Details of the deceased pension holder",
+          "continues_previous_page": false,
+          "items": [
+            {
+              "kind": "field",
+              "label": "Last name",
+              "field_type": "text",
+              "hints": [],
+              "options": null,
+              "required": false,
+              "input": "widget"
+            },
+            {
+              "kind": "field",
+              "label": "First name(s)",
+              "field_type": "text",
+              "hints": [],
+              "options": null,
+              "required": false,
+              "input": "widget"
+            },
+            {
+              "kind": "field",
+              "label": "Street, no.",
+              "field_type": "text",
+              "hints": [],
+              "options": null,
+              "required": false,
+              "input": "widget"
+            },
+            {
+              "kind": "field",
+              "label": "Postal code, city",
+              "field_type": "text",
+              "hints": [],
+              "options": null,
+              "required": false,
+              "input": "widget"
+            },
+            {
+              "kind": "field",
+              "label": "Country",
+              "field_type": "text",
+              "hints": [],
+              "options": null,
+              "required": false,
+              "input": "widget"
+            },
+            {
+              "kind": "field",
+              "label": "Date of birth (dd.mm.yyyy)",
+              "field_type": "date",
+              "hints": [],
+              "options": null,
+              "required": false,
+              "input": "widget"
+            },
+            {
+              "kind": "field",
+              "label": "Date of death",
+              "field_type": "date",
+              "hints": [],
+              "options": null,
+              "required": false,
+              "input": "widget"
+            },
+            {
+              "kind": "field",
+              "label": "Marital status",
+              "field_type": "dropdown",
+              "hints": [],
+              "options": [
+                "Single",
+                "Married",
+                "Divorced",
+                "Widowed",
+                "registered partnership",
+                "diss.partnership, death",
+                "diss.partnership, legal"
+              ],
+              "required": false,
+              "input": "widget"
+            },
+            {
+              "kind": "field",
+              "label": "AHV number / Social security number (mandatory field)",
+              "field_type": "text",
+              "hints": [
+                "(756.xxxx.xxxx.xx)"
+              ],
+              "options": null,
+              "required": true,
+              "input": "widget"
+            }
+          ]
+        },
+        {
+          "region": "footer",
+          "title": null,
+          "continues_previous_page": false,
+          "items": [
+            {
+              "kind": "note",
+              "text": "The singular form also includes the plural, and all masculine terms referring to persons refer to persons of both genders."
+            },
+            {
+              "kind": "note",
+              "text": "65952 E 001 20.03.2026 N1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "status": "ok",
+      "sections": [
+        {
+          "region": "header",
+          "title": null,
+          "continues_previous_page": false,
+          "items": [
+            {
+              "kind": "field",
+              "label": "Banking relationship",
+              "field_type": "text",
+              "hints": [],
+              "options": null,
+              "required": false,
+              "input": "widget"
+            },
+            {
+              "kind": "field",
+              "label": "Banking relationship",
+              "field_type": "text",
+              "hints": [],
+              "options": null,
+              "required": false,
+              "input": "widget"
+            },
+            {
+              "kind": "field",
+              "label": "UBS Fisca 3a",
+              "field_type": "text",
+              "hints": [],
+              "options": null,
+              "required": false,
+              "input": "widget"
+            }
+          ]
+        },
+        {
+          "region": "body",
+          "title": "To join in any case",
+          "continues_previous_page": false,
+          "items": [
+            {
+              "kind": "list",
+              "items": [
+                "Official identity document of the beneficiary or their legal guardian",
+                "Certificate of inheritance",
+                "Family registration certificate of the deceased pension holder (issued after the date of death) or death certificate if married or in registered partnership",
+                "Deed of appointment in the case of an executor",
+                "Inheritance disclaimer record if the inheritance is repudiated"
+              ]
+            }
+          ]
+        },
+        {
+          "region": "body",
+          "title": "Depending on the beneficiaries the following additional documents must be enclosed",
+          "continues_previous_page": false,
+          "items": [
+            {
+              "kind": "table",
+              "rows": [
+                [
+                  "Partner",
+                  "Proof of residence of the pension holder and the partner from the local municipality for the last five years until death and a cohabitation agreement"
+                ],
+                [
+                  "Parents",
+                  "Family registration certificate of the deceased pension holder (issued after the date of death) or birth certificate of the deceased pension holder"
+                ],
+                [
+                  "Siblings",
+                  "Family registration certificate of the parents"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "region": "body",
+          "title": "Notice",
+          "continues_previous_page": false,
+          "items": [
+            {
+              "kind": "paragraph",
+              "text": "Any units in the UBS Vitainvest investment fund or in the UBS AST 4 Mixta investment groups will be sold as soon as the Fisca Pension Fund Foundation has been informed of the pension holder's death. Upon death assets are no longer subject to interest accrual."
+            },
+            {
+              "kind": "paragraph",
+              "text": "Advance clarification with any potential pledgee (e.g., the bank) is required to ascertain whether the pension assets are still pledged. If they are, the pledgee (e.g., UBS Switzerland AG) must cancel the pledge. A copy of the pledge release must be submitted, otherwise the payment cannot be executed."
+            },
+            {
+              "kind": "paragraph",
+              "text": "Please ensure that this application has been completed in full, signed by the applicant, and includes all relevant supporting documents. The documents submitted will not be returned. Copies of the documents are accepted. Documents in foreign languages must be submitted with a certified translation into German, French, Italian or English."
+            },
+            {
+              "kind": "field",
+              "label": "Number of existing beneficiaries: ________",
+              "field_type": "number",
+              "hints": [],
+              "options": null,
+              "required": false,
+              "input": "widget"
+            }
+          ]
+        },
+        {
+          "region": "footer",
+          "title": null,
+          "continues_previous_page": false,
+          "items": [
+            {
+              "kind": "note",
+              "text": "65952 E 001 20.03.2026 N1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "page": 3,
+      "status": "ok",
+      "sections": [
+        {
+          "region": "header",
+          "title": null,
+          "continues_previous_page": false,
+          "items": [
+            {
+              "kind": "field",
+              "label": "Banking relationship",
+              "field_type": "text",
+              "hints": [],
+              "options": null,
+              "required": false,
+              "input": "widget"
+            },
+            {
+              "kind": "field",
+              "label": "Banking relationship",
+              "field_type": "text",
+              "hints": [],
+              "options": null,
+              "required": false,
+              "input": "widget"
+            },
+            {
+              "kind": "field",
+              "label": "UBS Fisca 3a",
+              "field_type": "text",
+              "hints": [],
+              "options": null,
+              "required": false,
+              "input": "widget"
+            }
+          ]
+        },
+        {
+          "region": "body",
+          "title": "Beneficiary",
+          "continues_previous_page": false,
+          "items": [
+            {
+              "kind": "note",
+              "text": "Complete and print out this page for each beneficiary."
+            }
+          ]
+        },
+        {
+          "region": "body",
+          "title": "Beneficiary details",
+          "continues_previous_page": false,
+          "items": [
+            {
+              "kind": "field",
+              "label": "Last name",
+              "field_type": "text",
+              "hints": [],
+              "options": null,
+              "required": false,
+              "input": "widget"
+            },
+            {
+              "kind": "field",
+              "label": "First name(s)",
+              "field_type": "text",
+              "hints": [],
+              "options": null,
+              "required": false,
+              "input": "widget"
+            },
+            {
+              "kind": "field",
+              "label": "Street, no.",
+              "field_type": "text",
+              "hints": [],
+              "options": null,
+              "required": false,
+              "input": "widget"
+            },
+            {
+              "kind": "field",
+              "label": "Postal code, city",
+              "field_type": "text",
+              "hints": [],
+              "options": null,
+              "required": false,
+              "input": "widget"
+            },
+            {
+              "kind": "field",
+              "label": "Country",
+              "field_type": "text",
+              "hints": [],
+              "options": null,
+              "required": false,
+              "input": "widget"
+            },
+            {
+              "kind": "field",
+              "label": "Date of birth (dd.mm.yyyy)",
+              "field_type": "date",
+              "hints": [],
+              "options": null,
+              "required": false,
+              "input": "widget"
+            },
+            {
+              "kind": "field",
+              "label": "Next of kin / Relationship to the deceased pension holder",
+              "field_type": "text",
+              "hints": [],
+              "options": null,
+              "required": false,
+              "input": "widget"
+            },
+            {
+              "kind": "field",
+              "label": "Phone number in the event of queries",
+              "field_type": "text",
+              "hints": [],
+              "options": null,
+              "required": false,
+              "input": "widget"
+            },
+            {
+              "kind": "field",
+              "label": "AHV number / Social security number (mandatory field)",
+              "field_type": "text",
+              "hints": [
+                "(756.xxxx.xxxx.xx)"
+              ],
+              "options": null,
+              "required": true,
+              "input": "widget"
+            }
+          ]
+        },
+        {
+          "region": "body",
+          "title": "Your account details (Please indicate IBAN/SWIFT in the event of transfers abroad)",
+          "continues_previous_page": false,
+          "items": [
+            {
+              "kind": "field",
+              "label": "Bank name",
+              "field_type": "text",
+              "hints": [],
+              "options": null,
+              "required": false,
+              "input": "widget"
+            },
+            {
+              "kind": "field",
+              "label": "IBAN",
+              "field_type": "text",
+              "hints": [],
+              "options": null,
+              "required": false,
+              "input": "widget"
+            },
+            {
+              "kind": "field",
+              "label": "In the name of",
+              "field_type": "text",
+              "hints": [],
+              "options": null,
+              "required": false,
+              "input": "widget"
+            },
+            {
+              "kind": "paragraph",
+              "text": "For transfers to a foreign bank please provide detailed payment instructions (IBAN or SWIFT). The transfer will be made in Swiss francs (CHF) on the beneficiary's account. A capital payment declaration or a deduction of tax at source will be applied to the assets paid out."
+            }
+          ]
+        },
+        {
+          "region": "body",
+          "title": "Signature(s)",
+          "continues_previous_page": false,
+          "items": [
+            {
+              "kind": "field",
+              "label": "Place",
+              "field_type": "text",
+              "hints": [],
+              "options": null,
+              "required": false,
+              "input": "widget"
+            },
+            {
+              "kind": "field",
+              "label": "Date (dd.mm.yyyy)",
+              "field_type": "date",
+              "hints": [],
+              "options": null,
+              "required": false,
+              "input": "widget"
+            },
+            {
+              "kind": "field",
+              "label": "Signature of beneficiary or legal representative",
+              "field_type": "signature",
+              "hints": [],
+              "options": null,
+              "required": false,
+              "input": "rule"
+            },
+            {
+              "kind": "field",
+              "label": "Name of beneficiary or legal representative",
+              "field_type": "text",
+              "hints": [],
+              "options": null,
+              "required": false,
+              "input": "widget"
+            },
+            {
+              "kind": "field",
+              "label": "Name of beneficiary or legal representative",
+              "field_type": "text",
+              "hints": [],
+              "options": null,
+              "required": false,
+              "input": "widget"
+            }
+          ]
+        },
+        {
+          "region": "body",
+          "title": "For internal bank use only",
+          "continues_previous_page": false,
+          "items": [
+            {
+              "kind": "note",
+              "text": "Signature(s) verified / Signed in my presence"
+            },
+            {
+              "kind": "field",
+              "label": "OU ref.",
+              "field_type": "text",
+              "hints": [],
+              "options": null,
+              "required": false,
+              "input": "none"
+            },
+            {
+              "kind": "field",
+              "label": "Signature",
+              "field_type": "signature",
+              "hints": [],
+              "options": null,
+              "required": false,
+              "input": "none"
+            }
+          ]
+        },
+        {
+          "region": "footer",
+          "title": null,
+          "continues_previous_page": false,
+          "items": [
+            {
+              "kind": "note",
+              "text": "65952 E 001 20.03.2026 N1"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

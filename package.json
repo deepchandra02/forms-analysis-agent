@@ -1,0 +1,30 @@
+{
+  "name": "forms-analysis-agent",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Modular LangGraph agents for analysing PDF forms. First agent: input-extraction.",
+  "scripts": {
+    "dump": "tsx src/cli/dump-page.ts",
+    "extract": "tsx src/cli/extract.ts",
+    "test": "vitest run",
+    "typecheck": "tsc --noEmit",
+    "dev": "langgraphjs dev"
+  },
+  "dependencies": {
+    "@langchain/core": "^1.5.1",
+    "@langchain/langgraph": "^1.7.5",
+    "@langchain/openai": "^1.8.5",
+    "dotenv": "^18.0.10",
+    "langchain": "^1.6.8",
+    "pdfjs-dist": "6.5.438",
+    "zod": "^4.6.7"
+  },
+  "devDependencies": {
+    "@langchain/langgraph-cli": "^1.8.1",
+    "@types/node": "^26.6.7",
+    "tsx": "^4.23.15",
+    "typescript": "^5.9.3",
+    "vitest": "^5.1.1"
+  }
+}
